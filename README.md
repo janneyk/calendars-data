@@ -3,7 +3,7 @@
 This repository contains the R code and raw data for the research article:
 
 > **How to build a calendar: A global survey of calendars reveals constraints on their evolution**
-> (Janne Yrjö-Koskinen, Helena Miton & Olivier Morin, 2026)
+> by Janne Yrjö-Koskinen, Helena Miton & Olivier Morin (2026)
 
 ## Repository contents
 

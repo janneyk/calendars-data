@@ -9,11 +9,11 @@ This repository contains the R code and raw data for the research article:
 
 | File | Description |
 |------|-------------|
-| `Data_dictionary_all.txt` | Description of the variables in `all_calendars.csv` |
-| `Data_dictionary_included.txt` | Description of the variables in `included_calendars.csv` |
 | `README.md` | This file |
 | `all_calendars.csv` | All calendars surveyed, including whether each was included in the final dataset |
 | `calendars-code-2026-09-11.R` | R script that runs the full analysis and produces the figures |
+| `data_dictionary_all.txt` | Description of the variables in `all_calendars.csv` |
+| `data_dictionary_included.txt` | Description of the variables in `included_calendars.csv` |
 | `included_calendars.csv` | The calendars included in the study. This is the main dataset used by the R script. |
 
 ## Requirements

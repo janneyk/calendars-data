@@ -102,7 +102,7 @@ length(unique(labels$BinaryString))
 d.complete <- read.csv("included_calendars.csv")
 
 #Optional: Removing calendars not in the Standard Cross-Cultural Sample: 
-#d <- subset(d, d$SCCS == "Present")
+#d.complete <- subset(d.complete, d.complete$SCCS == "Present")
 #length(unique(d$Culture_name))
 #unique(d$Culture_name)
 

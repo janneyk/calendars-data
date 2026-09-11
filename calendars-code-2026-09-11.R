@@ -103,8 +103,8 @@ d.complete <- read.csv("included_calendars.csv")
 
 #Optional: Removing calendars not in the Standard Cross-Cultural Sample: 
 #d.complete <- subset(d.complete, d.complete$SCCS == "Present")
-#length(unique(d$Culture_name))
-#unique(d$Culture_name)
+#length(unique(d.complete$Culture_name))
+#unique(d.complete$Culture_name)
 
 #Simplifying the dataframe to only get what we will be using for this code
 colnames(d.complete)

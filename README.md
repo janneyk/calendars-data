@@ -60,7 +60,7 @@ install.packages(setdiff(pkgs, rownames(installed.packages())))
 
 ## Data
 
-`included_calendars.csv` contains one row per calendar, and the variables are described in `Data_dictionary_included.txt`. 
+`included_calendars.csv` contains one row per calendar, and the variables are described in `data_dictionary_included.txt`. 
 
 Most calendars are linked to a location through their eHRAF ID in D-PLACE. Calendars that are not in D-PLACE were given approximate coordinates by hand, and these are listed with notes in the R script.
 

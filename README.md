@@ -72,10 +72,6 @@ The article is currently in preparation. Until it is published, please cite this
 
 This section will be updated with the full reference once the article is published.
 
-If you use the location data, please also cite D-PLACE:
-
-> Kirby, K. R., Gray, R. D., Greenhill, S. J., et al. (2016). D-PLACE: A global database of cultural, linguistic and environmental diversity. *PLoS ONE*, 11(7), e0158391. https://doi.org/10.1371/journal.pone.0158391
-
 ## License
 
 (TBC)

@@ -1,0 +1,41 @@
+Data Dictionary for calendars_all.csv
+
+
+Column:			Explanation
+
+
+ID:			An ID unique to that calendar.
+			(The ID is primarily based on the eHRAF culture
+			code. If multiple calendars exist for the same
+			culture, they receive suffixes _A, _B, _C, etc.
+			If a calendar does not correspond to any culture
+			in eHRAF World Cultures, it is assigned an ID
+			beginning with X, followed by a number.)
+
+Culture_code:		Code of the culture on eHRAF World Cultures
+			(if available).
+
+Culture_code_Arc:	Code of the culture on eHRAF Archaeology
+			(if available).
+
+Culture_name:		Name of the culture or the population that
+			developed/mainly uses the calendar.
+
+Continent:		Continent where the population/culture is mainly
+			located, extracted from eHRAF where possible.
+
+Subsistence_type:	Subsistence type of the population/culture,
+			extracted in principle from eHRAF.
+
+Calendar_name:		Name of the calendar in question.
+
+Inclusion_status:	Simple Included/Excluded binary, depending on
+			whether the calendar is among the fully
+			described calendars.
+
+Reason_for_exclusion:	Reason for exclusion, namely whether data on our
+			six specific calendar units are partially or
+			fully missing.
+
+Sources:		List of sources used to make the coding
+			decisions.

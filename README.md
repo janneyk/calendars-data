@@ -2,8 +2,8 @@
 
 This repository contains the R code and raw data for the research article:
 
-> **How to build a calendar: A global survey of calendars reveals constraints on their evolution**
-> by Janne Yrjö-Koskinen, Helena Miton & Olivier Morin (submitted)
+> **How to build a calendar: A global survey of calendars reveals universal design rules**
+> by Janne Yrjö-Koskinen, Helena Miton & Olivier Morin
 
 ## Repository contents
 
@@ -68,7 +68,7 @@ Most calendars are linked to a location through their eHRAF ID in D-PLACE. Calen
 
 The article is currently in preparation. Until it is published, please cite this repository:
 
-> Yrjö-Koskinen, J., Miton, H., &  Morin, O. (submitted). Code and data for "How to build a calendar: A global survey of calendars reveals constraints on their evolution". GitHub. https://github.com/janneyk/calendars-data
+> Yrjö-Koskinen, J., Miton, H., &  Morin, O. (submitted). Code and data for "How to build a calendar: A global survey of calendars reveals universal design rules". GitHub. https://github.com/janneyk/calendars-data
 
 This section will be updated with the full reference once the article is published.
 

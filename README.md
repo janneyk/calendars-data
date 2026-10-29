@@ -68,7 +68,8 @@ Most calendars are linked to a location through their eHRAF ID in D-PLACE. Calen
 
 The article is currently in preparation. Until it is published, please cite this repository:
 
-> Yrjö-Koskinen, J., Miton, H., &  Morin, O. (2026). Code and data for "How to build a calendar: A global survey of calendars reveals universal design rules". (v1.0.0). Zenodo DOI:10.5281/zenodo.23757782
+> Yrjö-Koskinen, J., Miton, H., &  Morin, O. (2026). Code and data for "How to build a calendar: A global survey of calendars reveals universal design rules". (v1.0.0). [![DOI](https://zenodo.org/badge/1365857259.svg)](https://doi.org/10.5281/zenodo.23757781)
+
 
 This section will be updated with the full reference once the article is published.
 
